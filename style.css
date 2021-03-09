@@ -1,0 +1,17 @@
+*{
+  
+  border: 2px solid antiquewhite;
+
+}
+
+
+
+
+h1{ 
+    background-color: white
+}
+.menu{
+    display: flex;
+    justify-content: space-evenly;
+
+}
